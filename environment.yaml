@@ -16,3 +16,4 @@ dependencies:
   - pytorch-cuda
   - nltk
   - transformers
+  - spacy
